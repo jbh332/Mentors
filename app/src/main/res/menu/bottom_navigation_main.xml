@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_list"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:icon="@drawable/baseline_view_list_black_18dp"
+        android:title="List"/>
+    <item
+        android:id="@+id/action_chat"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:icon="@drawable/baseline_chat_black_18dp"
+        android:title="Chat"/>
+    <item
+        android:id="@+id/action_star"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:icon="@drawable/baseline_stars_white_18dp"
+        android:title="Favorite"/>
+    <item
+        android:id="@+id/action_account"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:icon="@drawable/baseline_account_circle_black_18dp"
+        android:title="Account"/>
+</menu>

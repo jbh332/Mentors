@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">edu</string>
+    <string name="title_activity_app_intro">AppIntroActivity</string>
+</resources>

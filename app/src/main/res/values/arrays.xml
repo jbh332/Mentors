@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="topic">
+        <item>공학 / 정보학부</item>
+        <item>경영 / 사회학부</item>
+        <item>어문 / 교육학부</item>
+        <item>예술 / 건강학부</item>
+        <item>기타</item>
+    </string-array>
+
+    <string-array name="question">
+        <item>당신의 보물 제 1호는?</item>
+        <item>가장 친한 친구의 이름은?</item>
+        <item>어릴 적 살던 동네는?</item>
+    </string-array>
+
+    <string-array name="roomNumber">
+        <item>101호</item>
+        <item>102호</item>
+        <item>103호</item>
+    </string-array>
+</resources>
